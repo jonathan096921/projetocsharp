@@ -1,0 +1,11 @@
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\bin\Debug\netcoreapp2.1\ProjetoJonathan.deps.json
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\bin\Debug\netcoreapp2.1\ProjetoJonathan.runtimeconfig.json
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\bin\Debug\netcoreapp2.1\ProjetoJonathan.runtimeconfig.dev.json
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\bin\Debug\netcoreapp2.1\ProjetoJonathan.dll
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\bin\Debug\netcoreapp2.1\ProjetoJonathan.pdb
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.csproj.CoreCompileInputs.cache
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.AssemblyInfoInputs.cache
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.AssemblyInfo.cs
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.dll
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.pdb
+C:\ws2019e\repos\ProjetoJonathan\ProjetoJonathan\obj\Debug\netcoreapp2.1\ProjetoJonathan.csprojAssemblyReference.cache
